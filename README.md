@@ -1,5 +1,5 @@
 # MATH 205 Survival Guide
-![](figure.png)
+![](figure.jpg)
 
 ## Chapters
 0. [Introduction](00_intro.pdf)

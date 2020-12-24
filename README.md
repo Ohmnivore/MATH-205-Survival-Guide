@@ -15,3 +15,7 @@
 10. [Time Saving Tricks](../../raw/master/10_time_saving_tricks.pdf)
 
 Not all chapters are available yet. The released chapters may be updated over time.
+
+## Flashcards
+* [Download](https://github.com/Ohmnivore/MATH-205-Survival-Guide/raw/master/flashcards.apkg)
+* [Anki Website](https://apps.ankiweb.net/)

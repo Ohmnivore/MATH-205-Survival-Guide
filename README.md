@@ -9,7 +9,7 @@
 4. [Pre-Calculus & Calculus I Review](../../raw/master/04_pre-calculus_&_calculus_I_review.pdf)
 5. Calculus II Theory
 6. Exam Question Variants
-7. Tricky Integrals
+7. [Tricky Integrals](../../raw/master/07_tricky_integrals.pdf)
 8. Tricky Sequences
 9. Tricky Series
 10. [Time Saving Tricks](../../raw/master/10_time_saving_tricks.pdf)
